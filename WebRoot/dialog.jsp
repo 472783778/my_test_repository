@@ -30,7 +30,7 @@
 <script type="text/javascript"
 	src="${pageContext.request.contextPath }/easyui/locale/easyui-lang-zh_CN.js"></script>
 <script type="text/javascript"
-	src="${pageContext.request.contextPath }/js/datagrid/crud.js"></script>
+	src="${pageContext.request.contextPath }/js/dialog/dialog.js"></script>
 </head>
 
 <body>
